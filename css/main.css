@@ -52,3 +52,7 @@
 .channel-members .member .avatar-small:active {transform: scale(1) !important;}
 .channel-members .member:hover > .avatar-small:before {border-color: grey;}
 .channel-members .member:hover > .avatar-small:after {opacity: .9;}
+
+.message-group {
+	background-color: #141414;
+}
