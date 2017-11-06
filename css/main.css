@@ -61,6 +61,11 @@
 	border-bottom: 0px !important;
 	background-color: #141414 !important;
 }
+
 .btn-primary, .buttonBrandFilledDefault-2Rs6u5 {
+	border-radius: 30px !important;
 	background-color: #f40612 !important;
+	color: white !important;
+	border: 0px !important;
+	transition: none !important;
 }
