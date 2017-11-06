@@ -56,6 +56,8 @@
 .chat .messages {
 	background-color: #141414 !important;
 }
-.theme-dark .title-qAcLxz {
-  background-color: #141414 !important;
+
+.titleWrapper-3Vi_wz .title-qAcLxz, .title-wrap, #bd-customcss-detach-container {
+	border-bottom: 0px !important;
+	background-color: #141414 !important;
 }
