@@ -50,8 +50,16 @@
 .channel-members .member .avatar-small:hover:before {border-color: white !important;}
 .channel-members .member .avatar-small:hover {transform: scale(1.08);}
 .channel-members .member .avatar-small:active {transform: scale(1) !important;}
-.channel-members .member:hover > .avatar-small:before {border-color: grey;}
+.channel-members .member:hover > .avatar-small:before {border-color: red;}
 .channel-members .member:hover > .avatar-small:after {opacity: .9;}
+
+.btn-primary, .buttonBrandFilledDefault-2Rs6u5 {
+    border-radius: 30px !important;
+    background-color: #f40612 !important;
+    color: white !important;
+    border: 0px !important;
+    transition: none !important;
+}
 
 .chat .messages {
 	background-color: #141414 !important;
@@ -62,10 +70,3 @@
 	background-color: #141414 !important;
 }
 
-.btn-primary, .buttonBrandFilledDefault-2Rs6u5 {
-	border-radius: 30px !important;
-	background-color: #f40612 !important;
-	color: white !important;
-	border: 0px !important;
-	transition: none !important;
-}
