@@ -53,6 +53,6 @@
 .channel-members .member:hover > .avatar-small:before {border-color: grey;}
 .channel-members .member:hover > .avatar-small:after {opacity: .9;}
 
-.message-group {
+.theme-dark .message-group:not(.has-divider) {
 	background-color: #141414;
 }
