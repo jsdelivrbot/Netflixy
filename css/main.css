@@ -54,5 +54,5 @@
 .channel-members .member:hover > .avatar-small:after {opacity: .9;}
 
 .chat .messages {
-	background-color: #141414;
+	background-color: #141414 !important;
 }
